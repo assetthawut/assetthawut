@@ -1,6 +1,3 @@
-<div align="center">
-<h1>Hello World 👋, Nice to see you.</h1>
-</div>
 
 ### Languages and Tools:
 \
